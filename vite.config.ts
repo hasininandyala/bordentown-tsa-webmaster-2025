@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/<bordentown-tsa-webmaster-2025>/' 
+  base: '/bordentown-tsa-webmaster-2025/' 
 })
